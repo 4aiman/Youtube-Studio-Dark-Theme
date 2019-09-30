@@ -1,0 +1,172 @@
+.ytcp-comment-creator-heart,
+.videos,
+.iron-selected,
+.ytcp-navigation-drawer {
+    color: #f96!important;
+}
+.iron-autogrow-textarea,
+.paper-input-container,
+.ytcp-omnisearch {
+    background-color: #888!important;
+    border-radius: 5px;
+}
+.ytcp-text-dropdown-trigger,
+.ytcp-comment-replies,
+.style_scope,
+body,
+div,
+p,
+comments,
+.ytcp-navigation-drawer,
+.ytcp-video-filter,
+.ytcp-header {
+    background: #222!important;
+    color: #ccc!important;
+    scrollbar-width: thin!important;
+    scrollbar-color: #88d #333;
+}
+.ytcp-video-delete-dialog {
+    background-color: #222!important;
+}
+.ytd-active-account-header-renderer,
+.ytd-multi-page-menu-renderer,
+.ytd-compact-link-renderer,
+.chip.style-scope.ytcp-chip-bar,
+.ytcp-form-textarea,
+.paper-item,
+.ytcp-text-menu {
+    background: #333!important;
+    color: #ccc!important;
+}
+
+
+.ytcp-video-delete-dialog#delete-dialog,
+.button-area,
+.editor-panel,
+#tooltip-body,
+.input-container.video-url.style-scope.ytcp-video-metadata-basics,
+.ytcp-video-metadata-visibility#container,
+.ytcp-commentbox#main,
+#comment-row {
+    background: #222!important;
+    color: #ccc!important;
+    border: solid 1px #888;
+    box-shadow: 0px 0px 2px;
+    padding: 4px
+}
+.ytcp-missing-features-menu,
+h2,
+.ytcd-list-card-collapsible,
+.ytcp-video-links-tooltip-body#title,
+td,
+.ytcd-subscriber-highlights-item,
+.ytcp-video-metadata-editor,
+.ytcp-comment-action-buttons,
+.ytcp-comment-thread,
+.ytcp-comment,
+.comment-row {
+    background: #222!important;
+    color: #ccc!important;
+}
+
+paper-icon-item.ytcp-missing-features-menu:hover {
+    background: #ccc!important;
+    color: #222!important;
+}
+paper-icon-item.ytcp-missing-features-menu:hover span.ytcp-missing-features-menu {
+    background: #ccc!important;
+    color: #222!important;
+}
+
+
+.ytcp-chip,
+.ytcp-video-player-controls,
+.ytcp-menu-renderer,
+.ytcp-icon-button,
+.view-on-youtube-link,
+a,
+.image-thumbnail,
+.thumbnail-overlay,
+.overlay-container,
+.ytcp-overlay-with-link {
+    background: transparent!important;
+    color: #9d9!important;
+}
+
+.ytcd-subscriber-highlights-item {
+    color: #caaf8b!important;
+}
+.style-scope.ytcd-basic-item#content {
+    background: transparent!important;
+    color: #ccc!important;
+    margin-bottom: -0px;
+    padding-bottom: 0px;
+}
+.apply-item-padding.style-scope.ytcd-basic-item#title {
+    background: #caaf8b!important;
+    margin-bottom: 20px
+}
+
+.search-layer {
+    padding: 0px;
+}
+
+
+.ytcp-comment-toggle-button,
+#reply-button,
+.ytcp-comment-button,
+.ytcp-paper-checkbox,
+.checkboxContainer,
+.ytcp-checkbox,
+.circle,
+.iron-icon,
+.filter-icon {
+    border-color: #88d!important;
+    color: #88d!important;
+}
+.progress-fill {
+    background: #6c3!important;
+    color: #caaf8b!important;
+}
+.progress {
+    background: #36c!important;
+    color: #caaf8b!important;
+    border-radius: 5px;
+    border: solid 1px #cc0!important;
+}
+
+.ytcp-trend-label.yta-video-snapshot {
+    position: relative;
+    margin-top: -10px!important
+}
+
+#save {
+    background: #88d!important;
+    color: #9d9!important;
+    z-index: 100;
+    position: relative;
+    border: 1px solid white!important;
+}
+
+.title-container.ytcp-thumbnail-with-title,
+.ytcp-button,
+.paper-ripple {
+    background: transparent!important;
+}
+.text-container.ytcp-thumbnail-with-title {
+    background: transparent!important;
+    text-shadow: 0px 0px 2px white, 0px 0px 2px white, 0px 0px 2px white, 0px 0px 2px white;
+}
+#title {
+    background: rgba(0, 0, 0, .6)!important;
+    color: #222!important;
+}
+
+.yta-video-snapshot {
+    margin-top: -17px;
+}
+.table-value.style-scope.yta-video-snapshot {
+    margin-top: -18px;
+    ;
+    color: white;
+}
