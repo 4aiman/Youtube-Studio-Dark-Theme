@@ -9,8 +9,8 @@
 @updateURL    https://raw.githubusercontent.com/4aiman/Youtube-Studio-Dark-Theme/master/DarkYTS.user.scc
 @license      CC-BY-SA-4.0
 ==/UserStyle== */
-@-moz-document domain("studio.youtube.com") {
 
+@-moz-document domain("studio.youtube.com") {
 .ytcp-comment-creator-heart,
 .videos,
 .iron-selected,
