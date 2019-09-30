@@ -1,8 +1,7 @@
 /* ==UserStyle==
-@namespace   StylusThemes
 @name         DarkYTS
-@version      1.1
-@description  Dark Youtube Studio theme for Stylus/Stylish
+@version      1.1.10
+@description  Dark Youtube Studio theme for Stylus
 @namespace    https://github.com/4aiman/Youtube-Studio-Dark-Theme
 @author       4aiman
 @homepageURL  https://github.com/4aiman/Youtube-Studio-Dark-Theme
@@ -10,7 +9,6 @@
 @updateURL    https://raw.githubusercontent.com/4aiman/Youtube-Studio-Dark-Theme/master/dark-youtube-studio.user.css
 @license      CC-BY-SA-4.0
 ==/UserStyle== */
-
 @-moz-document domain("studio.youtube.com") {
 .ytcp-comment-creator-heart,
 .videos,
