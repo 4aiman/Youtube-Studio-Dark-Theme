@@ -1,6 +1,6 @@
 /* ==UserStyle==
 @name         DarkYTS
-@version      1.1.10
+@version      1.1.11
 @description  Dark Youtube Studio theme for Stylus
 @namespace    https://github.com/4aiman/Youtube-Studio-Dark-Theme
 @author       4aiman
@@ -31,6 +31,7 @@ p,
 comments,
 .ytcp-navigation-drawer,
 .ytcp-video-filter,
+.ytcr-copyright-header,
 .ytcp-header {
     background: #222!important;
     color: #ccc!important;
@@ -51,6 +52,7 @@ comments,
     color: #ccc!important;
 }
 
+    #textarea {width:99%!important;}
 
 .ytcp-video-delete-dialog#delete-dialog,
 .button-area,
@@ -76,6 +78,9 @@ td,
 .ytcp-comment-action-buttons,
 .ytcp-comment-thread,
 .ytcp-comment,
+.staple-card,
+.yta-screen,
+.yta-card-container,
 .comment-row {
     background: #222!important;
     color: #ccc!important;
@@ -91,7 +96,7 @@ paper-icon-item.ytcp-missing-features-menu:hover span.ytcp-missing-features-menu
 }
 
 
-.ytcp-chip,
+
 .ytcp-video-player-controls,
 .ytcp-menu-renderer,
 .ytcp-icon-button,
@@ -99,7 +104,9 @@ paper-icon-item.ytcp-missing-features-menu:hover span.ytcp-missing-features-menu
 a,
 .image-thumbnail,
 .thumbnail-overlay,
-.overlay-container,
+.tick,
+.tick-mark,
+.strong-tick-mark,
 .ytcp-overlay-with-link {
     background: transparent!important;
     color: #9d9!important;
@@ -183,3 +190,12 @@ a,
     color: white;
 }
 }
+
+.yta-title-subtitle-header#title,  
+.yta-hovercard#title,
+.yta-video-overlay-hovercard {color: #9d9!important; background:transparent!important;}
+
+html:not(style-scope) {--ytcp-black-secondary:white!important;
+}    
+
+.label-area {padding-right:5px;}
